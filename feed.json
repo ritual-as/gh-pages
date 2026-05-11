@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ritual as: | trauma-informed ritual spaces",
+    "description": "",
+    "home_page_url": "https://ritual-as.github.io/gh-pages",
+    "feed_url": "https://ritual-as.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "icon": "https://ritual-as.github.io/gh-pages/media/website/ritual-as-Logo-png-63kb.png",
+    "author": {
+        "name": "misha agunos"
+    },
+    "items": [
+        {
+            "id": "https://ritual-as.github.io/gh-pages/test-post.html",
+            "url": "https://ritual-as.github.io/gh-pages/test-post.html",
+            "title": "test post",
+            "author": {
+                "name": "misha agunos"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-11T17:35:40+02:00",
+            "date_modified": "2026-05-11T17:35:40+02:00"
+        }
+    ]
+}
