@@ -3,22 +3,10 @@
     <title>ritual as: | trauma-informed ritual spaces</title>
     <link href="https://ritualas.me/feed.xml" rel="self" />
     <link href="https://ritualas.me" />
-    <updated>2026-05-11T17:35:40+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>misha agunos</name>
     </author>
     <id>https://ritualas.me</id>
 
-    <entry>
-        <title>test post</title>
-        <author>
-            <name>misha agunos</name>
-        </author>
-        <link href="https://ritualas.me/test-post.html"/>
-        <id>https://ritualas.me/test-post.html</id>
-
-        <updated>2026-05-11T17:35:40+02:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>
