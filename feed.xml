@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>ritual as: | trauma-informed ritual spaces</title>
-    <link href="https://ritual-as.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://ritual-as.github.io/gh-pages" />
+    <link href="https://ritualas.me/feed.xml" rel="self" />
+    <link href="https://ritualas.me" />
     <updated>2026-05-11T17:35:40+02:00</updated>
     <author>
         <name>misha agunos</name>
     </author>
-    <id>https://ritual-as.github.io/gh-pages</id>
+    <id>https://ritualas.me</id>
 
     <entry>
         <title>test post</title>
         <author>
             <name>misha agunos</name>
         </author>
-        <link href="https://ritual-as.github.io/gh-pages/test-post.html"/>
-        <id>https://ritual-as.github.io/gh-pages/test-post.html</id>
+        <link href="https://ritualas.me/test-post.html"/>
+        <id>https://ritualas.me/test-post.html</id>
 
         <updated>2026-05-11T17:35:40+02:00</updated>
             <summary></summary>
